@@ -1,0 +1,66 @@
+header{
+  background: url("./Profilepic.jpg");
+  background-size: cover;
+  background-position: center;
+
+}
+
+.photo{
+  border-radius:100px;
+  height:200px;
+  width:200px;
+}
+
+
+h2{
+  Margin: 50px 300px 0px 300px;
+  font-family: Barrio;
+  background-color: rgba(255, 255, 255, 0.5);
+  font-size: 80px;
+}
+
+h1{
+  background color: rgb(255, 0, 0);
+  font-family: Barrio;
+  font-size: 40px;
+}
+
+h3{
+
+  Margin: 20px 150px 20px 150px;
+  padding: 20px 0 0 0;
+  color: white;
+  background: url("http://www.artsfon.com/pic/201603/2560x1600/artsfon.com-83184.jpg");
+  font-family: Barrio;
+  font-size: 60px;
+  height:100px
+}
+
+h4{
+  Margin: 20px 150px 20px 150px;
+  padding: 20px 0 0 0;
+  color: white;
+  background: url("https://s-media-cache-ak0.pinimg.com/originals/19/a1/b2/19a1b216f31a5d18a054aef242ccacab.jpg");
+  font-family: Barrio;
+  font-size: 60px;
+  height:100px
+}
+
+h5{
+  Margin: 20px 150px 20px 150px;
+  padding: 20px 0 0 0;
+  color: white;
+  background: url("https://seroword.com/wp-content/uploads/2015/06/emmy-awards-trophy-wallpaper-e14349983854171.jpg");
+  font-family: Barrio;
+  font-size: 60px;
+  height:100px
+}
+
+p{
+  font-family: Quicksand;
+  font-style: oblique;
+}
+
+body{
+  background-color: #E8BA8C;
+}
